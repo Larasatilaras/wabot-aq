@@ -21,8 +21,8 @@ teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
 global.owner = ['6285759662798','6285798542403','6285759662798','6285798542403']// Put your number here
-global.mods = ['6287832147584'] // Want some help?
-global.prems = ['6287832147584'] // Premium user has unlimited limit
+global.mods = ['6285759662798'] // Want some help?
+global.prems = ['6285759662798'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -91,7 +91,7 @@ gcid = '972502255007-1406453544'
 footer = '©LarasXBotz'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu Sebentar Jamet!'
-bc = 'Pangeran'
+bc = 'ʟᴀʀᴀsXʙᴏᴛᴢ'
 titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'
 body = run
 kasihcaption = `©${namaig}\n\n©${namagithub}`
