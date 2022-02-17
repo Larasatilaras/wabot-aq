@@ -1,21 +1,21 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • myXL
-│ • 0878-3214-7584
+│ • Indosat Ooredoo
+│ • 0857-5966-2798
 ╰────
 
 ╭─「 Donasi • Bank Virtual 」
 │ • OVO
-│ • 0878-3214-7584
+│ • 0857-5966-2798
 │ • DANA
-│ • 0878-3214-7584
+│ • 0857-5966-2798
 │ • GOPAY
-│ • 0878-3214-7584
+│ • 0857-5966-2798
 ╰────
 
 ╭─「 Donasi • Website 」
-│ • https://saweria.co/PangeranLord
-│ • https://trakteer.id/PangeranLord
+│ • https://saweria.co/Larasatilaras
+│ • https://trakteer.id/Larasatilaras
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
