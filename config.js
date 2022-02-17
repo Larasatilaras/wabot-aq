@@ -20,7 +20,7 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['6287832147584','6285717616804','6287832147584','6285717616804']// Put your number here
+global.owner = ['6285759662798','6285798542403','6285759662798','6285798542403']// Put your number here
 global.mods = ['6287832147584'] // Want some help?
 global.prems = ['6287832147584'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -49,7 +49,7 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
 //var sticker_author = 'Nurutomo'
-var sticker_name = '©PangeranXcipuyy' // ganti aja
+var sticker_name = '©ItsmeLarasXBotz' // ganti aja
 var sticker_author = '' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
@@ -85,10 +85,10 @@ gc3 = ''
 namaig = 'https://instagram.com/abengrndna_'
 linkf = gc1
 linkff = namaig
-namabot = 'Pangeran×Cipuyy'
+namabot = '*ʟᴀʀᴀsxʙᴏᴛᴢ*'
 namagithub = 'donasi dulu baru gua kasih SC nya!'
 gcid = '972502255007-1406453544'
-footer = '©Pangeran×Cipuyy'
+footer = '©LarasXBotz'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu Sebentar Jamet!'
 bc = 'Pangeran'
